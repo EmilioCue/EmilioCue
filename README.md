@@ -17,7 +17,7 @@ Here are a few highlights from my repositories:
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Python, C++, Java, Javascript, Dart, Ruby  
+- **Languages:** Python, C++, Java, Javascript, Dart, Ruby 
 - **Libraries/Frameworks:** Flask, React, Flutter  
 - **Other:** Git, Bash, Docker, SQL, Figma
 
