@@ -11,7 +11,6 @@ Here are a few highlights from my repositories:
 - 🤖 [**knn-classifier**](https://github.com/EmilioCue/knn-classifier.git): A simple implementation of the K-Nearest Neighbors algorithm for classification tasks.
 - 🔎 [**bfs-dfs**](https://github.com/EmilioCue/bfs-dfs.git): Visualization of Breadth-First Search and Depth-First Search algorithms on graphs. 
 - 🧭 [**a-star-search**](https://github.com/EmilioCue/a-star-search.git): A visual demo of the A* pathfinding algorithm in action.
-- ⚙️ [**activation-record-dsl**](https://github.com/EmilioCue/activation-record-dsl.git): A DSL (Domain-Specific Language) for generating activation records to understand the challenges of subprogram call and return in imperative programming.
 
 ---
 
