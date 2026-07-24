@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Emilio Cué
 
-🎓 I'm a Computer Engineering student passionate about **software development**, **videogame development**, **mathematics**, and **artificial intelligence**.
+🎓 I'm a Computer Engineering Graduate passionate about **Software Development**, **Videogame Development**, **Mathematics**, and **Artificial Intelligence**.
 
 ---
 
