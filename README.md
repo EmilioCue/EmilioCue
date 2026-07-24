@@ -7,7 +7,7 @@
 ## 🚀 Projects
 
 Here are a few highlights from my repositories:
-
+- 🕹️ [**LearnToEscape**](https://github.com/EmilioCue/LearnToEscape.git): A 3D educational escape room game featuring AI-driven Procedural Content Generation (PCG). Built with a Unity client and a Spring Boot backend integrating local LLMs for dynamic puzzle design.
 - 🤖 [**knn-classifier**](https://github.com/EmilioCue/knn-classifier.git): A simple implementation of the K-Nearest Neighbors algorithm for classification tasks.
 - 🔎 [**bfs-dfs**](https://github.com/EmilioCue/bfs-dfs.git): Visualization of Breadth-First Search and Depth-First Search algorithms on graphs. 
 - 🧭 [**a-star-search**](https://github.com/EmilioCue/a-star-search.git): A visual demo of the A* pathfinding algorithm in action.
@@ -16,18 +16,9 @@ Here are a few highlights from my repositories:
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Python, C++, Java, Javascript, Dart, Ruby 
+- **Languages:** Python, C++, Java, C#, Javascript, Dart, Ruby 
 - **Libraries/Frameworks:** Vue, Spring, Flask, React, Flutter  
-- **Other:** Git, Bash, Docker, SQL, Figma
-
----
-
-## 📈 GitHub Stats
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmilioCue&show_icons=true&hide=prs&count_private=true&theme=default" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilioCue&layout=compact&langs_count=6&theme=default"/>
-</p>
+- **Other:** Unity, Prometheus, Grafana, Bash, Docker, SQL, Figma
 
 ---
 
